@@ -1,16 +1,14 @@
-# 🏗 Bodhi AI Explorer
+# 🏗 Lottery dApp 
 
-<h4 align="center">
-  <a href="https://smart-contract-explorer.movespace.xyz/"> -[ Lanuch App ]- </a>
-</h4>
+> Smart Contract Addr:
+>
+> https://optimistic.etherscan.io/address/0x130251dEEA9f9fD16809086369AC3494D0509B33#code
 
-🧪 Bodhi AI Explorer 是一个基于向量化数据和智能合约的 Bodhi 内容搜索和去中心化内容标注 App。
-
+🧪 Lottery dApp 是一个用于对 RMUD 用户等用户群体进行抽奖的 dApp。
+🧪 Lottery dApp is a dApp used to draw lottery for user groups such as RMUD users.
 
 ## Quickstart
-
-如果您想快速体验我们的功能请通过：<a href="https://bodhi.movespace.xyz/">Lanuch App</a>
-
+## Backend 
 ## Frontend
 ### Requirements
 
