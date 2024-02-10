@@ -5,6 +5,7 @@
 > https://optimistic.etherscan.io/address/0x130251dEEA9f9fD16809086369AC3494D0509B33#code
 
 🧪 Lottery dApp 是一个用于对 RMUD 用户等用户群体进行抽奖的 dApp。
+
 🧪 Lottery dApp is a dApp used to draw lottery for user groups such as RMUD users.
 
 ## Quickstart
